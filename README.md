@@ -6,5 +6,7 @@ A dataset with Hornet and Bees labels on images near a hive can be found [here](
 
 
 Here is the trained model on this dataset :
-https://user-images.githubusercontent.com/65337792/200896670-7ecae83a-ab5a-4990-8be7-6fed94f5d7a2.mp4
+
+
+https://user-images.githubusercontent.com/65337792/200898917-cde3c59d-40c9-4a62-9219-c9e007be8eda.mp4
 
