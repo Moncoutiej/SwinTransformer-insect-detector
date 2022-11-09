@@ -1,2 +1,9 @@
 # SwinTransformer-insect-detector
-Propose a solution to detect insects near from a hive in an image.
+
+Solution to detect insects near from a hive in an image.
+
+
+![testvid](assets/demo.mp4)
+
+
+
