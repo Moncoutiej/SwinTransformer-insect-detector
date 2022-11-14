@@ -8,4 +8,10 @@ Here is the trained model on this dataset :
 
 https://user-images.githubusercontent.com/65337792/200898917-cde3c59d-40c9-4a62-9219-c9e007be8eda.mp4
 
-The model has been trained on kaggle. You can find the training notebook [here](https://www.kaggle.com/code/johanmoncouti/asian-hornet-detection-swin-transformer-mmdet).
+The model has been trained on kaggle. You can find the training and results analysis notebook on kaggle [here](https://www.kaggle.com/code/johanmoncouti/asian-hornet-detection-swin-transformer-mmdet) and directly in this repository at [asian-hornet-detection-swin-transformer-mmdet.ipynb](asian-hornet-detection-swin-transformer-mmdet.ipynb).
+
+The trained model is also available [here](https://www.kaggle.com/datasets/johanmoncouti/hornet-detector-model).
+
+> **Warning**
+> The model is over 1GB
+
